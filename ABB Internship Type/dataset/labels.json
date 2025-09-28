@@ -1,0 +1,12 @@
+[
+  {
+    "image": "img1.jpg",
+    "bbox": [50, 30, 200, 180],
+    "label": "person"
+  },
+  {
+    "image": "img2.jpg",
+    "bbox": [60, 40, 180, 170],
+    "label": "dog"
+  }
+]
